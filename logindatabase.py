@@ -22,9 +22,9 @@ current_user = ''
 
 
 backslash_symbol(2)
-print('Welcome to the barebones system for Conduit Messaging. Where design gets fucked.')
+print('Welcome to the barebones system for Conduit Messaging..')
 print('--------------------------------------------------------------------------------')
-print('Cause, honestly... who cares?')
+print('Cause, honestly... ?')
 print('Attepting to contact system IP...')
 print('')
 
